@@ -28,3 +28,14 @@ arXiv: *Coming soon*
 
 ## 🛡️ License
 See LICENSE file for usage terms. Academic and non-commercial use is permitted with attribution.
+
+## 🌀 Support This Work
+
+I'm developing the **General Coherence Field Theory (GCFT)** — a unifying model of mass, space, gravity, and quantum behavior grounded in a single coherence field, Ξ.
+
+If the work resonates with you and you'd like to support independent theory and open access science:
+
+👉 [**Contribute only what you can spare — every ripple matters.**](https://www.paypal.com/ncp/payment/JX2APWYFV869U)
+
+🧠 GitHub: [ChaonickGCFT/Coherence-Field-Cosmology](https://github.com/ChaonickGCFT/Coherence-Field-Cosmology)  
+📄 Papers: under review at arXiv & Zenodo
