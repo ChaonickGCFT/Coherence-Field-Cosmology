@@ -1,5 +1,7 @@
 # Coherence Field Cosmology — Replacing ΛCDM with a Single Coherence Field (Ξ)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15883336.svg)](https://doi.org/10.5281/zenodo.15883336)
+
 **Author:** Nick Hacquier (aka ChaonickΞ)  
 **Version:** Preprint Release, July 2025
 
@@ -19,9 +21,10 @@ This repository contains the full paper and LaTeX source for *Coherence Field Co
 This work is part of the broader **General Coherence Field Theory (GCFT)** framework.
 
 ## 🧠 Contact
-GitHub: [ChaonickΞ](https://github.com/ChaonickΞ)  
+GitHub: [ChaonickΞ](https://github.com/ChaonickGCFT)  
 Email: hacquiernick@gmail.com  
-arXiv link: *Coming soon*
+DOI: [10.5281/zenodo.15883336](https://doi.org/10.5281/zenodo.15883336)  
+arXiv: *Coming soon*
 
 ## 🛡️ License
 See LICENSE file for usage terms. Academic and non-commercial use is permitted with attribution.
